@@ -1,0 +1,5 @@
+BigMac;Main;200.0;47;2.0;
+ChowMein;Main;200.0;3;3.0;
+Pizza;Main;400.0;27;2.0;
+Salad;Side;20.0;1;1.0;
+Crab;Chowder;30.0;4;5.0;
